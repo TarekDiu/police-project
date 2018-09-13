@@ -1,0 +1,398 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #fff;
+}
+
+
+.top-nav ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 18px;
+    padding-right: 25px;
+    color: #fff;
+    
+}
+.banner-section{
+    background: url(../images/police-wallpapers-desktop-For-Desktop-Wallpaper.jpg);
+    background-size: cover;
+}
+.banner-opacity{
+    
+    background: rgba(0,0,0,.4);
+    padding: 60px 0px;
+}
+.top-nav ul li span{
+    color: gray;
+}
+.bg-light{
+    background-color: transparent !important;
+}
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link, 
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav>
+.nav-link{
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #fd9653;
+}
+.banner-content{
+    
+  font-size: 40px;
+    color: #fff;
+    padding-top: 175px;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.banner-content p{
+    font-size: 12px;
+    color: #fff;
+    width: 65%;
+    margin-top: 20px;
+}
+.in-mr{
+    text-transform: uppercase;
+    background-color: #fd9653;
+    color: #fff;
+    border-radius: 50px;
+    padding: 7px 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
+.security-content{
+    padding: 50px 0px;
+}
+.security-content h4{
+    font-size: 16px;
+    color: #fd9653;
+}
+.tittle-bottom{
+    border: 3px solid #fd9653;
+    width: 10%;
+}
+.security-content h5{
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    margin-top: 13px;
+    
+}
+.rd-mr{
+  text-transform: uppercase;
+    background-color: #fd9653;
+    color: #fff;
+    border-radius: 50px;
+    padding: 7px 30px;
+    font-size: 20px;
+    margin-top: 15px;
+}  
+.form-section{
+    background-color: #f2f2f2;
+    margin-top: -90px;
+    
+}
+.form-heading{
+    background-color: #000616;
+    padding: 20px;
+}
+.form-section h1{
+text-transform: uppercase;
+    font-size: 30px;
+    color: #fff;
+    
+}
+.form-section h3{
+    font-size: 16px;
+    color: #fd9653;
+}
+.form-control{
+    color: #333;
+    background-color: transparent;
+   border: transparent;
+    border-bottom-width: medium;
+    border-bottom-style: none;
+    border-bottom-color: transparent;
+    border-radius: 0px;
+    border-bottom: 1px solid #333;
+    
+}
+.td-mr{
+   text-transform: uppercase;
+    background-color: #fd9653;
+    color: #fff;
+    border-radius: 0px;
+    padding: 7px 20px;
+    font-size: 15px;
+    margin-top: 15px; 
+}
+.our-services h4{
+    font-size: 16px;
+    color: #fd9653;
+    padding: 14px 20px;
+    
+}
+.our-services h1{
+    font-size: 36px;
+    color: #fff;
+    padding: 0px 15px;
+    
+}
+.our-services h5{
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    padding:  10px 15px 20px;
+    line-height: 25px;
+}
+.our-services{
+    background-color: #000616;
+}
+.one h1{
+   
+    font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;
+    
+    
+}
+.one p{
+   font-size: 18px;
+    color: black;
+    line-height: 20px; 
+}
+.two h1{
+
+   font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;}
+.two p{
+    font-size: 18px;
+    color: black;
+    line-height: 20px; 
+}
+.three h1{
+    
+    font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;
+    
+}
+.three p{
+    font-size: 18px;
+    color: black;
+    line-height: 20px; 
+}
+
+.four h1{
+   
+    font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;
+    margin-top: 20px;
+}
+.four p{
+        font-size: 18px;
+    color: black;
+    line-height: 20px; 
+    }
+
+
+.five h1{
+font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;
+     margin-top: 20px;
+}
+.five p{
+    font-size: 18px;
+    color: black;
+    line-height: 20px; 
+}
+.six h1{
+   font-size: 18px;
+    color:  #fd9653;
+    line-height: 20px;
+     margin-top: 20px;
+}
+.six p{
+  font-size: 18px;
+    color: black;
+    line-height: 20px;   
+}
+.gallery h4{
+    color: #fd9653;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.gallery h1{
+    color: #fff;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.gallery-section{
+    background-color:gray;
+}
+.gallery p{
+    line-height: 25px;
+    color: black;
+    font-weight: bold;
+    
+}
+.testimonial h4{
+    color: #fd9653;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.testimonial h1{
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+}
+.testimonial p{
+    line-height: 25px;
+    font-weight: bold;
+    color: black;
+    margin-top: 12px;
+}
+.testimonial h5{
+    margin-top: 10px;
+    color: #fd9653;
+    
+}
+.tittle {border: 3px solid #fd9653;
+    width: 10%;}
+
+.client-satisfication{
+    background: url(../images/test.png);
+    background-size: cover;
+}
+.opacity{
+    
+    background: rgba(0,0,0,.8);
+    padding: 60px 0px;
+}
+.client h1{
+    margin-top: 35px;
+    color: #fff;
+    line-height: 25px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.client p{
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 25px;
+    color: #fd9653;
+    margin-top: 15px;
+}
+.client-satis h1{
+    color: #fd9653;
+    font-weight: bold;
+}
+.client-satis h3{
+    color: #fff;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.client-bottom-border{
+     border: 3px solid #fd9653;
+    width: 15%;
+    margin-left: 95px;
+margin-top: 15px;
+}
+.client-satis1 h1{
+    color: #fd9653;
+    font-weight: bold;
+}
+.client-satis1 h3{
+     color: #fff;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.client-satis2 h1{
+     color: #fd9653;
+    font-weight: bold;
+}
+
+
+.client-satis2 h3{
+     color: #fff;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.client-satis3 h1{
+      color: #fd9653;
+    font-weight: bold;
+}
+
+
+.client-satis3 h3{
+     color: #fff;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.blog h1{
+    color: black;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.blog-bottom-border{
+    border: 3px solid #fd9653;
+    width: 10%;
+    margin-left: 500px;
+margin-top: 15px;
+    
+}
+.blog p{
+        margin-top: 15px;
+    margin-bottom: 1rem;
+    line-height: 25px;
+    font-weight: bold;
+}
+.blog-section h2{
+    color: #fd9653;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.blog-section p{
+    color: black;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: bold;
+}
+.footer-part{
+    background: url(../images/police-wallpapers-desktop-For-Desktop-Wallpaper.jpg);
+background-size: cover;
+    height: 400px;
+    margin-top: 30px;
+}
+.footer h1{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #fd9653;
+    
+}
+
+.footer-menu ul>li{
+    color: black;
+    list-style: none;
+    font-size: 25px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.footer h4{
+    color: brown;
+}
+    
+
+
+
+
